@@ -1,0 +1,18 @@
+{
+  "name": "ecedi/social_wall",
+  "description": "Provides a block to display last post(s) of many social networks.",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/social_wall",
+  "authors": [
+    {
+      "name": "Nicolas NUCCI",
+      "role": "Maintainer"
+    }
+  ],
+  "license": "GPL-2.0-or-later",
+  "minimum-stability": "dev",
+  "require": {
+    "abraham/twitteroauth": "^2",
+    "pgrimaud/instagram-user-feed": "^6"
+  }
+}

@@ -1,0 +1,13 @@
+name: Socializer
+type: module
+description: Show social media links in a block.
+package: Other
+core: 8.x
+core_version_requirement: ^8 || ^9 || ^10
+
+configure: socializer.settings
+
+# Information added by Drupal.org packaging script on 2022-08-24
+version: '2.0.0'
+project: 'socializer'
+datestamp: 1661343549
